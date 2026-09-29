@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of Context Mode, an MCP server that keeps tool output out of the model's context window, kept for reference. It is not installed on a Ghost box.
+
 # Context Mode
 
 **The other half of the context problem.**
