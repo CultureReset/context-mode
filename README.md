@@ -1,3 +1,14 @@
+> **CultureReset fork of [mksglu/context-mode](https://github.com/mksglu/context-mode).** Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use [upstream](https://github.com/mksglu/context-mode).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Context Mode
 
 **The other half of the context problem.**
